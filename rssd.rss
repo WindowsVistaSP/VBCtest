@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<channel>
+<title>Vista Builds Collection Wiki RSS更新</title>
+<link>https://vistabuildscollection.netlify.app/wiki/</link>
+<description>你可以在这里获取Vista Builds Collection Wiki最近的更新</description>
+
+<item>
+<title>最近添加的版本</title>
+<description>只会显示近三个更新的版本</description>
+
+<content:encoded><![CDATA[<ul>
+<li><a href="https://vistabuildscollection.netlify.app/5215_vbl_ndt_netxpmobl_050807-0106/">6.0.5215.vbl_ndt_netxpmobl.050807-0106</a></li>
+<li><a href="https://vistabuildscollection.netlify.app/5212_winmain_050726-1915/">6.0.5212.winmain.050726_1915</a></li>
+</ul>]]></content:encoded>
+
+
+
+</item>
+
+</channel>
+</rss>
