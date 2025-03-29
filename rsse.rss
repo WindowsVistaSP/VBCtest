@@ -10,6 +10,7 @@
 <title>Vista Builds Collection Wiki RSS更新</title>
 <link>https://vistabuildscollection.netlify.app/wiki/</link>
 <description>你可以在这里获取Vista Builds Collection Wiki最近的更新，只会显示最新添加的三个版本</description>
+<ttl>60</ttl>
 
 <item>
 <title>6.0.5215.vbl_ndt_netxpmobl.050807-0106</title>
