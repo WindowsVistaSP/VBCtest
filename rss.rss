@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"> 
 <channel> 
-<title>频道名称</title> 
-<link>频道链接</link> 
-<description>频道描述</description> 
-<language>频道语言</language> 
+<title>Vista Builds Collection Wiki RSS Feed</title> 
+<link>https://vistabuildscollection.netlify.app/wiki</link> 
+<description>你可以在这里获取Vista Builds Collection Wiki最近的更新</description> 
 <items>
+
 <item> 
-<title>文章标题</title> 
-<link>文章链接</link> 
-<description>文章摘要</description> 
-<pubDate>发布日期</pubDate> 
+<title>6.0.5215.vbl_ndt_netxpmobl.050807-0106</title> 
+<link>https://vistabuildscollection.netlify.app/5215_vbl_ndt_netxpmobl_050807-0106</link> 
+<description>6.0.5215.vbl_ndt_netxpmobl.050807-0106版本已正式写入Vista Builds Collection Wiki</description> 
+<pubDate>一段时间之前</pubDate> 
 </item> 
+
+<item> 
+<title>6.0.5212.winmain.050726_1915</title> 
+<link>https://vistabuildscollection.netlify.app/5212_winmain_050726-1915</link> 
+<description>6.0.5212.winmain.050726_1915版本已正式写入Vista Builds Collection Wiki</description> 
+<pubDate>一段时间之前</pubDate> 
+</item>
+
 </items> 
 </channel>
 </rss> 
