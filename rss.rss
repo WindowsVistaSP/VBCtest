@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"> 
+<channel> 
+<title>频道名称</title> 
+<link>频道链接</link> 
+<description>频道描述</description> 
+<language>频道语言</language> 
+<items>
+<item> 
+<title>文章标题</title> 
+<link>文章链接</link> 
+<description>文章摘要</description> 
+<pubDate>发布日期</pubDate> 
+</item> 
+</items> 
+</channel>
+</rss> 
