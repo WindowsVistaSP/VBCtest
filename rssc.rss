@@ -4,7 +4,6 @@
 <title>Vista Builds Collection Wiki RSS Feed</title> 
 <link>https://vistabuildscollection.netlify.app/wiki</link> 
 <description>你可以在这里获取Vista Builds Collection Wiki最近的更新</description> 
-<items>
 
 <item> 
 <title>6.0.5215.vbl_ndt_netxpmobl.050807-0106</title> 
@@ -20,6 +19,5 @@
 <pubDate>一段时间之前</pubDate> 
 </item>
 
-</items> 
 </channel>
 </rss> 
